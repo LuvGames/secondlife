@@ -7,6 +7,10 @@ The followings are some of the resources.
 
 * [LSL Wiki](http://wiki.secondlife.com/wiki/Main_Page)
 
+# LSL Building Help
+
+* [Second life WIKI page](http://wiki.secondlife.com/wiki/Building_Tools)
+
 # LSL Scripting
 * [LSL 101 from LSL WIKI](http://wiki.secondlife.com/wiki/A_Basic_LSL_Tutorial)
 * [Great repository of Scriptins in GitHub](https://github.com/Outworldz/LSL-Scripts)
@@ -14,6 +18,7 @@ The followings are some of the resources.
 # Start Mesh
 
 * [Second Life WIKI](http://wiki.secondlife.com/wiki/Mesh/Creating_a_mesh)
+* [COLLADA](https://en.wikipedia.org/wiki/COLLADA)
 
 # Mesh resources
 
