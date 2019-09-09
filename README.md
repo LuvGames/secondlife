@@ -11,6 +11,10 @@ The followings are some of the resources.
 * [LSL 101 from LSL WIKI](http://wiki.secondlife.com/wiki/A_Basic_LSL_Tutorial)
 * [Great repository of Scriptins in GitHub](https://github.com/Outworldz/LSL-Scripts)
 
+# Start Mesh
+
+* [Second Life WIKI](http://wiki.secondlife.com/wiki/Mesh/Creating_a_mesh)
+
 # Mesh resources
 
 * [Free Mesh Youtube site](https://www.youtube.com/watch?v=Jzmzv32SS4k)
