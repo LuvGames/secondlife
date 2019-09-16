@@ -20,6 +20,15 @@ The followings are some of the resources.
 * [Second Life WIKI](http://wiki.secondlife.com/wiki/Mesh/Creating_a_mesh)
 * [COLLADA](https://en.wikipedia.org/wiki/COLLADA)
 
+# Blender tutorials
+
+* [PolyGonrunway](https://polygonrunway.com/courses/become-a-3d-illustrator/lectures/11053820)
+* []()
+* []()
+* []()
+* []()
+* []()
+
 # Mesh resources
 
 * [Free Mesh Youtube site](https://www.youtube.com/watch?v=Jzmzv32SS4k)
