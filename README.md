@@ -23,11 +23,19 @@ The followings are some of the resources.
 # Blender tutorials
 
 * [PolyGonrunway](https://polygonrunway.com/courses/become-a-3d-illustrator/lectures/11053820)
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Good starting point free couorses](https://cgcookie.com/lesson/welcome-to-the-blender-basics-course)
+* [Blender.Org Tutorials](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
+* [Blender 2D](https://www.youtube.com/watch?v=pywbPQD9vYU)
+* [Blender Guru Donut](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
+* [Blender Guru](https://youtu.be/lPVpg4_POww)
+* [Blender Guru Intermidate](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a)
+* [Blender fundamentals](https://www.youtube.com/playlist?list=PL23220C9F539F61DC)
+* [Blender Tutorials](https://www.youtube.com/playlist?list=PLfSe9l6wUloQH1NILba7KBEY-HaDqy1E-)
+* [Blender Creating a Jeep](https://www.youtube.com/playlist?list=PLBbfFcNW4C9fTv2N6A4mKwSCLDoPCsU5W)
+* [Creating Johnny](https://www.youtube.com/watch?v=fc5q_NvYVvs&list=PL581EEDEDA386890E)
+* [Blender Creating Hair](https://www.youtube.com/playlist?list=PLfSe9l6wUloQfAVqGFTLHSZF927_3xQb8)
+* [25 best blender Sites](https://www.creativebloq.com/3d-tips/blender-tutorials-1232739)
+
 
 # Mesh resources
 
@@ -39,28 +47,6 @@ The followings are some of the resources.
 ## Blender Mesh 
 
 * [Avatar WorkBench AV for blender to start](https://blog.machinimatrix.org/avatar-workbench/)
-
-## Blender Fundamental
-
-* [Good starting point free couorses](https://cgcookie.com/lesson/welcome-to-the-blender-basics-course)
-
-* [Blender.Org Tutorials](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6)
-
-* [Blender 2D](https://www.youtube.com/watch?v=pywbPQD9vYU)
-
-* [Blender Guru Donut](https://www.youtube.com/playlist?list=PLjEaoINr3zgEq0u2MzVgAaHEBt--xLB6U)
-
-* [Blender Guru](https://youtu.be/lPVpg4_POww)
-
-* [Blender Guru Intermidate](https://www.youtube.com/playlist?list=PLjEaoINr3zgHJVJF3T3CFUAZ6z11jKg6a)
-* [Blender fundamentals](https://www.youtube.com/playlist?list=PL23220C9F539F61DC)
-* [Blender Tutorials](https://www.youtube.com/playlist?list=PLfSe9l6wUloQH1NILba7KBEY-HaDqy1E-)
-* [Blender Creating a Jeep](https://www.youtube.com/playlist?list=PLBbfFcNW4C9fTv2N6A4mKwSCLDoPCsU5W)
-
-* [Creating Johnny](https://www.youtube.com/watch?v=fc5q_NvYVvs&list=PL581EEDEDA386890E)
-* [Blender Creating Hair](https://www.youtube.com/playlist?list=PLfSe9l6wUloQfAVqGFTLHSZF927_3xQb8)
-
-* [25 best blender Sites](https://www.creativebloq.com/3d-tips/blender-tutorials-1232739)
 
 ## Blender Mesh Clothes creation
 
